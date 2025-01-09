@@ -24,7 +24,7 @@ conds:
       sources:
         - src/mgos_ade7953_i2c.c
       libs:
-        - location: https://github.com/mongoose-os-libs/i2c
+        - location: https://github.com/shelly-homekit-mos/i2c
 
 config_schema:
   # Abstract data, saved in separate storage
